@@ -1,0 +1,9 @@
+"Parameter","Padma","Jamuna","Halda","Culture","All"
+"No of individuals",40,48,46,32,166
+"No of haplotypes",18,20,7,20,50
+"Haplotype diversity (Hd)",0.851,0.899,0.605,0.952,0.876
+"Nucleotide diversity (pi)",0.00705,0.00744,0.00522,0.00863,0.00718
+"Monomorphic sites",573,567,579,563,546
+"Polymorphic sites (S)",21,27,15,31,48
+"Singleton sites",10,10,7,17,21
+"Parsimony-informative sites",11,17,8,14,27

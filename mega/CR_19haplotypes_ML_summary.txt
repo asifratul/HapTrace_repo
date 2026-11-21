@@ -1,0 +1,79 @@
+;   MEGA-CC (Molecular Evolutionary Genetics Analysis Compute Core)
+;
+;   Suggested Citation for MEGA-CC 10:
+;
+;   Kumar S, Stecher G, Li M, Knyaz C, Tamura K
+;   MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms
+;   Molecular Biology and Evolution (2018) 35:1547-1549
+;
+;   Kumar S, Stecher G, Peterson D, and Tamura K
+;   MEGA-CC: Computing Core of Molecular Evolutionary Genetics
+;   Analysis Program for Automated and Iterative Data Analysis.
+;   Bioinformatics (2012) 28:2685-2686 (Epub 2012 Aug 24)
+
+[Application Info]
+
+	Version                                 = 10.2.6
+	Build                                   = 10210527-x86_64
+	User Interface                          = CommandLine
+	Operating System                        = windows
+
+[General Info]
+
+	Data Type                               = nucleotide (non-coding)
+	No. of Taxa                             =       19
+	No. of Sites                            =      594
+	Data File                               = 'C:\Users\DELL90~1\AppData\Local\Temp\claude\999b7aee9d7b9d66\586174d2-6e98-44f0-985b-82d44437abd6\scratchpad\figS1\hap19.fas'
+	Settings File                           = 'C:\Users\DELL90~1\AppData\Local\Temp\claude\999b7aee9d7b9d66\586174d2-6e98-44f0-985b-82d44437abd6\scratchpad\figS1\final.mao'
+	Command Line                            = C:\Program Files\MEGA-X\megacc.exe -a C:\Users\DELL90~1\AppData\Local\Temp\claude\999b7aee9d7b9d66\586174d2-6e98-44f0-985b-82d44437abd6\scratchpad\figS1\final.mao -d C:\Users\DELL90~1\AppData\Local\Temp\claude\999b7aee9d7b9d66\586174d2-6e98-44f0-985b-82d44437abd6\scratchpad\figS1\hap19.fas -o C:\Users\DELL90~1\AppData\Local\Temp\claude\999b7aee9d7b9d66\586174d2-6e98-44f0-985b-82d44437abd6\scratchpad\figS1\final -s
+
+[Analysis Settings]
+
+	Analysis                                = Phylogeny Reconstruction
+	Statistical Method                      = Maximum Likelihood
+	Test of Phylogeny                       = Bootstrap method
+	No. of Bootstrap Replications           = 1000
+	Substitutions Type                      = Nucleotide
+	Model/Method                            = Tamura 3-parameter model
+	Rates among Sites                       = Gamma Distributed (G)
+	No of Discrete Gamma Categories         = 5
+	Gaps/Missing Data Treatment             = Use all sites
+	Site Coverage Cutoff (%)                = Not Applicable
+	ML Heuristic Method                     = Nearest-Neighbor-Interchange (NNI)
+	Initial Tree for ML                     = Make initial tree automatically (Default - NJ/BioNJ)
+	Branch Swap Filter                      = None
+	Number of Threads                       = 4
+	datatype                                = snNucleotide
+	containsCodingNuc                       = False
+	MissingBaseSymbol                       = ?
+	IdenticalBaseSymbol                     = .
+	GapSymbol                               = -
+
+[Analysis Statistics]
+
+	Start Time                              = 19/11/2026 0:03:32
+	End Time                                = 19/11/2026 0:08:33
+	Execution Time                          =  300.667 (seconds)
+	Peak Memory Used(Working Set)           =   85.367 (MB)
+	Sum of branch lengths                   =    0.058
+	Model                                   = Tamura (1992) model (+G)
+	Num of params                           =       38
+	Num of rates                            =        5
+	AICc                                    = 2076.652
+	BIC                                     = 2354.978
+	LnL                                     = -1000.194
+	Invar                                   = n/a
+	Gamma                                   =    0.050
+	Ts/Tv                                   =    6.971
+	r(A->T)                                 = 0.0188696382816456
+	r(A->C)                                 = 0.00892865667288414
+	r(A->G)                                 = 0.142739886725116
+	r(T->A)                                 = 0.0188696382816456
+	r(T->C)                                 = 0.142739886725116
+	r(T->G)                                 = 0.00892865667288414
+	r(C->A)                                 = 0.0188696382816456
+	r(C->T)                                 = 0.301663523365824
+	r(C->G)                                 = 0.00892865667288414
+	r(G->A)                                 = 0.301663523365824
+	r(G->T)                                 = 0.0188696382816456
+	r(G->C)                                 = 0.00892865667288414

@@ -1,0 +1,4 @@
+"Min_positives_k","Fish_tested_n","Accept_target_batch_pct","Accept_nontarget_pct_at_0.5","Accept_nontarget_pct_at_1.0","Accept_nontarget_pct_at_upperCI","Fish_tested_n_conservative"
+1,11,95.1,5.4,10.5,28.7,23
+2,18,95.1,0.4,1.4,10.2,36
+3,25,95.8,0,0.2,3.9,48
